@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654779145 source:d:\cprojects\horse\src\msoftcon.cpp
+	"msoftcon.h"
+	<conio.h>
+
+1654776645 d:\cprojects\horse\include\msoftcon.h
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1654779134 source:d:\cprojects\horse\main.cpp
+	<io.h>
+	<fcntl.h>
+	"msoftcon.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<codecvt>
+
